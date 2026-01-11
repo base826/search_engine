@@ -1,0 +1,34 @@
+{
+    "answers": {
+        "request001": {
+            "relevance": {
+                "docid:1": 1.0,
+                "docid:3": 1.0
+            },
+            "result": "true"
+        },
+        "request002": {
+            "relevance": {
+                "docid:0": 0.667,
+                "docid:1": 0.667,
+                "docid:2": 0.667,
+                "docid:3": 0.667,
+                "docid:4": 1.0
+            },
+            "result": "true"
+        },
+        "request003": {
+            "result": "false"
+        },
+        "request004": {
+            "relevance": {
+                "docid:0": 0.75,
+                "docid:1": 0.75,
+                "docid:2": 0.75,
+                "docid:3": 1.0,
+                "docid:4": 0.75
+            },
+            "result": "true"
+        }
+    }
+}

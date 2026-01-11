@@ -1,0 +1,14 @@
+{
+  "config": {
+    "name": "SearchEngine",
+    "version": "0.1",
+    "max_responses": 5
+  },
+  "files": [
+    "C:/Users/base8/Documents/Skillbox/search_engine/resources/file001.txt",
+    "C:/Users/base8/Documents/Skillbox/search_engine/resources/file002.txt",
+    "C:/Users/base8/Documents/Skillbox/search_engine/resources/file003.txt",
+    "C:/Users/base8/Documents/Skillbox/search_engine/resources/file004.txt",
+    "C:/Users/base8/Documents/Skillbox/search_engine/resources/file005.txt"
+  ]
+}
